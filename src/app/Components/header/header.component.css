@@ -1,0 +1,25 @@
+header{
+    background-color: #9592eb;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.logo{
+    display: inline-block;
+    margin: 0 20px;
+    color: black;
+
+}
+.nav{
+    display: inline-block;
+}
+.nav ul{
+    list-style: none;
+    display: flex;
+}
+
+.nav ul li{
+    margin-left: 30px;
+    text-decoration: none !important;   
+    color: #fff !important;
+}
